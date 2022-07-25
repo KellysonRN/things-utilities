@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: things-utilities
+  annotations:
+    github.com/project-slug: KellysonRN/things-utilities
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
